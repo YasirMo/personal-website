@@ -1,54 +1,35 @@
 ---
-title: "The Power Of React Hooks"
+title: "Are GANS a fashion sustainability solution?"
 publishedAt: 2023-05-24
-description: "Lorem ipsum dolor sit amet consectetur et ultrices blandit neque ege"
+description: "A breif dive into the interataction between generative AI and the fashion industry"
 slug: "the-power-of-react-hooks"
 isPublish: true
 ---
 
-## Vocesque meum remis est neque Neptunus monte
 
-Lorem markdownum nunc _adfuit_ fecisse, `quae pectus`, quod seu mortale suo
-Minerva iussit obortas. Favilla victa; alarum signis barbara, nec _sibi dentes_
-hostes?
+## Artificial intelligence 
 
-## Corporibus Leucon
+In the last two years, the fashion industry has experienced substantial economic and
+social growth; however, the industry is currently facing a lack of technological innovation
+and sustainability issues. The issue in the Fashion industry is the lack of
+sustainability, resource allocation, fabric waste, and technological solutions behind the
+design and engineering of clothes.
 
-Quaeque viridis, pariter possit. Velatus Thetis, ab Buten, in et ite positis
-annis ut Troasque altaque. Ancaeus convertit conscia Phinea petis. Dum rapto
-fameque quas: hostis: et exiguo exire materiaque sit non, numinis unguibus fide.
-Populis in tinxi **nisi** rura deos quo natus in cervice spretis, vulnera
-pictae, vatibus.
 
-> Illi tenebras si vultum suae. Matrem iam: iniqua adire, tetigere meque,
-> cessant, gerebat.
+## Digital Media
 
-## Montes ignarus precor rogabam primus ridet sanguine
+Digital media is a traditional solution currently being used in the fashion industry, in which brands utilise video editing and 3D graphics to generate fashion images. According to
+McKinsey's State of Fashion, 30% of the fashion industry sees adopting digital solutions
+as an opportunity. The Covid-19 pandemic is one of the biggest motivations for the current popularity of digital solutions. Although digital media solutions have shown promising results, their production speed is slow.
 
-In vir indefessus et patrios veniam. Fuit fecere nymphae putri tumebat Cyparisse
-domus, ad artus vitta herba? Et gaudet pressum aeterna animam. Miratur tamen ad
-frontem Hercule nam captivarumque medio tenet obstantia pulsisque adimit bella
-_pthiam mirantur ne_.
+## GANS
+Artificial Intelligence (AI) is the simulation of human problem-solving in a machine; the
+term is applied to machines that exhibit intelligent human behaviour.
+AI has swept various industries in recent years, providing creative solutions to problems
+and competitive insights. Despite the fashion industry's restricted business model, AI will
+continue to impact the sector, such as the fashion industry's design process. Within AI, machine learning is one of the most popular techniques widely applied in
+various industrial applications, especially for image generation.
 
-> Lacertis et nomenque oracla exstabat: genitor nitor! Fluctus habes extinctum.
-> Hunc utero iussa ora neque quae trunca tenuit coniciunt passis viro latratu
-> nepotum, spes. Et pendet mittor si expellam retia Achivis Aesonius cuius;
-> pressit exstinctique rogum enim, percutit potenti; quid longa. Nostra animaque
-> genetrice viae, quam virus sermone in videri.
+![image info](https://camo.githubusercontent.com/31a9d041371c448ae2c5ba2002c2f73e9308dab95adf7974fe7e2b85961df112/68747470733a2f2f63646e2e636e6e2e636f6d2f636e6e6e6578742f64616d2f6173736574732f3139313031303134353931372d30312d7375737461696e6162696c6974792d66617368696f6e2d6d6f6e74682d66756c6c2d3136392e6a7067)
 
-## Rapit harundine vana
 
-Noctis et et carpis corpus amplexus; imagine indignanda pedum sospes; cornua
-super **et simus**. Emissi bellaque dedit, ipse suis Romanique sit regia est
-virisque verum: _parentum omen_. Simul adest quam dat inanes verterat ab quies,
-visent melliferarum vestibus dolore.
-
-Vos illo in habet, ipse est suo fuit, solidissima invecta moverent [si] pericula
-ea pelle te quatiens proditus. Requiemque nec et fruticumque destringere
-divulsaque [multae requirit primi] supposita, turbatusque lacus, quondam;
-hectora pendebat verba. Magni Euagrum arcus sequentis vidi: qui Meropisque
-adplicat relinquentur inter, si pete. Magna constitit ore rediit et parentis
-pomaria lumina seque aura.
-
-[multae requirit primi]: http://heu.io/
-[si]: http://infelixlucina.net/mutati
